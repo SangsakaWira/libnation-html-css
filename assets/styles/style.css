@@ -402,16 +402,25 @@ input:focus {
 }
 
 .login {
-  width: 90%;
+  width: 80%;
+  margin-top: 20px;
   margin-inline: auto;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
   border-radius: 20px;
   background-color: white;
-  padding: 50px;
+  padding: 40px;
 }
+
 .login-logo {
   margin-bottom: 45px;
 }
+
+.register-logo {
+  margin: auto;
+  width:60%;
+  margin-bottom: 25px;
+}
+
 .login a {
   font-size: 1rem;
 }
